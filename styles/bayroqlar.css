@@ -1,0 +1,83 @@
+.turkey{
+    background-color: red;
+    width: 900px;
+    height: 500px;
+    margin: 100px;
+}
+.turkey-icon{
+    width: 600px;
+    height: 300px;
+    margin-top: 80px;
+}
+.container{
+    width: auto;
+    height: auto;
+}
+.China{
+    background-color: red;
+    width: 900px;
+    height: 500px;
+    margin: 100px;
+}
+.china-icon{
+    width: 300px;
+    margin-top: 40px;
+}
+.Japan{
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    margin: 100px;
+    border: 4px;
+    
+    
+}
+.color-all{
+    background-color:gray;
+}
+.Japan-icon{
+    width: 300px;
+    margin-top: 90px;
+   margin-left: 270px;
+}
+.Columbia{
+    margin: 100px;
+}
+.yellow{
+    background-color:rgb(248, 192, 7);
+    height: 200px;
+    width: 900px;
+  
+}
+.blue{
+    background-color:rgb(6, 6, 117);
+    height: 150px;
+    width: 900px;
+}
+.red{
+    background-color:darkred;
+    height: 150px;
+    width: 900px;
+}
+.Germany{
+    margin: 100px;
+}
+.black{
+    background-color:black;
+    height: 166.6px;
+    width: 900px;
+}
+.yellow-germany{
+    background-color:rgb(248, 192, 7);
+    height: 166.6px;
+    width: 900px;
+}
+.red-germany{
+    background-color:darkred;
+    height: 166.6px;
+    width: 900px;
+}
+.text{
+    text-align: center;
+    font-size: 100px;
+}
